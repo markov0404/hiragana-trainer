@@ -3791,7 +3791,7 @@ class HiraganaTrainer:
         
         ttk.Label(
             content_frame, 
-            text="Desarrollado con ❤️ para estudiantes de japonés",
+            text="Desarrollado con ❤️ para estudiantes de japonés. By markov",
             foreground="#666666"
         ).pack(pady=10)
         
