@@ -1,0 +1,10 @@
+{
+  "theme": "clam",
+  "font_size": 120,
+  "auto_save": true,
+  "show_notifications": true,
+  "algorithm": "Estándar",
+  "session_duration": 15,
+  "chars_per_session": 20,
+  "reminder_enabled": false
+}

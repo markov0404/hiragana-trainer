@@ -1,0 +1,281 @@
+{
+  "difficult_characters": [],
+  "study_history": {
+    "ぢ": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:50:53.950039"
+    },
+    "ぞ": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:50:57.718365"
+    },
+    "で": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:01.487033"
+    },
+    "ば": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:05.270184"
+    },
+    "びゅ": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:09.050982"
+    },
+    "じゅ": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:12.833772"
+    },
+    "る": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:16.620030"
+    },
+    "みょ": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:20.395182"
+    },
+    "く": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:24.178723"
+    },
+    "り": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:27.960181"
+    },
+    "びょ": {
+      "times_shown": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "last_shown": "2025-04-09T22:51:31.735493"
+    }
+  },
+  "max_streak": 0,
+  "achievements": [
+    {
+      "id": "first_session",
+      "title": "Primer Paso",
+      "description": "Completa tu primera sesión de estudio",
+      "unlocked": true,
+      "unlock_date": "2025-04-09T22:50:52.174102"
+    },
+    {
+      "id": "hiragana_master",
+      "title": "Maestro de Hiragana",
+      "description": "Consigue una precisión del 90% en todos los caracteres básicos",
+      "unlocked": false,
+      "unlock_date": null
+    },
+    {
+      "id": "dakuten_expert",
+      "title": "Experto en Dakuten",
+      "description": "Consigue una precisión del 90% en caracteres con dakuten",
+      "unlocked": false,
+      "unlock_date": null
+    },
+    {
+      "id": "yoon_pro",
+      "title": "Profesional de Yōon",
+      "description": "Consigue una precisión del 90% en caracteres combinados",
+      "unlocked": false,
+      "unlock_date": null
+    },
+    {
+      "id": "perfect_quiz",
+      "title": "Perfeccionista",
+      "description": "Obtén 100% en un quiz de al menos 20 preguntas",
+      "unlocked": false,
+      "unlock_date": null
+    },
+    {
+      "id": "streak_warrior",
+      "title": "Guerrero de Racha",
+      "description": "Alcanza una racha de 50 respuestas correctas seguidas",
+      "unlocked": false,
+      "unlock_date": null
+    },
+    {
+      "id": "study_habit",
+      "title": "Hábito de Estudio",
+      "description": "Estudia durante 7 días consecutivos",
+      "unlocked": false,
+      "unlock_date": null
+    },
+    {
+      "id": "hiragana_complete",
+      "title": "Hiragana Completo",
+      "description": "Estudia todos los caracteres hiragana al menos una vez",
+      "unlocked": false,
+      "unlock_date": null
+    },
+    {
+      "id": "dedication",
+      "title": "Dedicación",
+      "description": "Acumula 5 horas de estudio",
+      "unlocked": false,
+      "unlock_date": null
+    }
+  ],
+  "achievement_data": {
+    "sessions_completed": 1,
+    "perfect_quiz_count": 0,
+    "max_streak": 0,
+    "study_dates": [
+      "2025-04-09T22:50:52.174079"
+    ],
+    "total_study_time": 0.12740469833333334,
+    "category_stats": {
+      "Básicos": {
+        "accuracy": 0,
+        "progress": 6.521739130434782
+      },
+      "Con dakuten": {
+        "accuracy": 0,
+        "progress": 16.0
+      },
+      "Combinados (yōon)": {
+        "accuracy": 0,
+        "progress": 12.121212121212121
+      }
+    },
+    "all_hiragana": [
+      "あ",
+      "い",
+      "う",
+      "え",
+      "お",
+      "か",
+      "き",
+      "く",
+      "け",
+      "こ",
+      "さ",
+      "し",
+      "す",
+      "せ",
+      "そ",
+      "た",
+      "ち",
+      "つ",
+      "て",
+      "と",
+      "な",
+      "に",
+      "ぬ",
+      "ね",
+      "の",
+      "は",
+      "ひ",
+      "ふ",
+      "へ",
+      "ほ",
+      "ま",
+      "み",
+      "む",
+      "め",
+      "も",
+      "や",
+      "ゆ",
+      "よ",
+      "ら",
+      "り",
+      "る",
+      "れ",
+      "ろ",
+      "わ",
+      "を",
+      "ん",
+      "が",
+      "ぎ",
+      "ぐ",
+      "げ",
+      "ご",
+      "ざ",
+      "じ",
+      "ず",
+      "ぜ",
+      "ぞ",
+      "だ",
+      "ぢ",
+      "づ",
+      "で",
+      "ど",
+      "ば",
+      "び",
+      "ぶ",
+      "べ",
+      "ぼ",
+      "ぱ",
+      "ぴ",
+      "ぷ",
+      "ぺ",
+      "ぽ",
+      "きゃ",
+      "きゅ",
+      "きょ",
+      "しゃ",
+      "しゅ",
+      "しょ",
+      "ちゃ",
+      "ちゅ",
+      "ちょ",
+      "にゃ",
+      "にゅ",
+      "にょ",
+      "ひゃ",
+      "ひゅ",
+      "ひょ",
+      "みゃ",
+      "みゅ",
+      "みょ",
+      "りゃ",
+      "りゅ",
+      "りょ",
+      "ぎゃ",
+      "ぎゅ",
+      "ぎょ",
+      "じゃ",
+      "じゅ",
+      "じょ",
+      "びゃ",
+      "びゅ",
+      "びょ",
+      "ぴゃ",
+      "ぴゅ",
+      "ぴょ"
+    ],
+    "studied_chars": [
+      "ぢ",
+      "ぞ",
+      "で",
+      "ば",
+      "びゅ",
+      "じゅ",
+      "る",
+      "みょ",
+      "く",
+      "り",
+      "びょ"
+    ]
+  },
+  "app_version": "2.0.0",
+  "last_save": "2025-04-09T23:00:17.770877"
+}
